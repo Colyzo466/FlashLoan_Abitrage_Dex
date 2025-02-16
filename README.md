@@ -43,7 +43,7 @@ Ensure you have the following installed:
 
 ### **2️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/flash-loan-arbitrage.git
+git clone https://github.com/Colyzo466/Flashloan_Arbitrage_Dex.git
 cd flash-loan-arbitrage
 ```
 
