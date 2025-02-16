@@ -70,7 +70,7 @@ npx hardhat compile
 
 ### **2️⃣ Deploy Contracts to Sepolia Testnet**
 ```bash
-npx hardhat run scripts/deploy.js --network sepolia
+npx hardhat run scripts/deployFlashLoanArbitrage.js --network sepolia
 ```
 
 This will deploy:
