@@ -145,7 +145,7 @@ This project is licensed under the **MIT License**.
 
 ## 👤 Author
 **Your Name**  
-🔗 GitHub: [YourUsername](https://github.com/YOUR_USERNAME)  
+🔗 GitHub: [Colyzo466](https://github.com/Colyzo466)  
 🔗 Twitter: [YourTwitterHandle](https://twitter.com/YOUR_TWITTER)  
 
 ---
