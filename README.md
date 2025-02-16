@@ -146,7 +146,7 @@ This project is licensed under the **MIT License**.
 ## 👤 Author
 **Your Name**  
 🔗 GitHub: [Colyzo466](https://github.com/Colyzo466)  
-🔗 Twitter: [YourTwitterHandle](https://twitter.com/YOUR_TWITTER)  
+🔗 Twitter: [@oguike_vic26351](https://twitter.com/victor oguike)  
 
 ---
 
